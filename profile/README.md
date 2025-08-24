@@ -1,10 +1,10 @@
-# 🧠 Neurixis Labs
+# 🧠 Neurixis
 
-Welcome to **Neurixis Labs** —  
-a French **AI & Data consulting company** dedicated to designing **secure, ethical, and production-ready artificial intelligence solutions**.
+Welcome to **Neurixis** —  
+a French **AI & Data consulting company** specialized in building **secure, ethical, and production-ready artificial intelligence solutions**.
 
-We help organizations **unlock the full value of their data** by combining advanced **machine learning engineering**, **MLOps best practices**, and **business-driven AI strategy**.  
-From **predictive analytics** to **generative AI**, our mission is to **deliver reliable, explainable, and scalable AI systems** that create long-term impact.
+We empower organizations to **unlock the full value of their data** by combining cutting-edge **machine learning engineering**, **MLOps best practices**, and **business-driven AI strategy**.  
+From **predictive analytics** to **generative AI**, our mission is to deliver **reliable, explainable, and scalable AI systems** that create long-term impact.
 
 ---
 
@@ -12,9 +12,9 @@ From **predictive analytics** to **generative AI**, our mission is to **deliver 
 
 - ✨ **AI & Data Strategy** — identify high-value use cases and accelerate adoption  
 - 🧠 **Machine Learning Engineering** — from prototyping to production-grade models  
-- 🔐 **Secure Data & MLOps** — industrial pipelines, monitoring, compliance & ISO 27001 readiness  
-- ☁️ **Cloud & Edge AI Deployments** — scalable & efficient deployments on any infrastructure  
-- 🧭 **Ethical & Explainable AI** — responsible AI systems with transparency & trust by design  
+- 🔐 **Secure MLOps & Data Pipelines** — industrialization, monitoring, compliance & ISO 27001 readiness  
+- ☁️ **Cloud & Edge AI Deployments** — scalable and efficient deployment on any infrastructure  
+- 🧭 **Ethical & Explainable AI** — responsible AI with transparency and trust by design  
 
 ---
 
@@ -29,12 +29,12 @@ We partner with **startups, scale-ups, industrial groups, and public institution
 
 ---
 
-## 📦 Projects & Repos
+## 📦 Projects & Repositories
 
-Check out our public work and open-source initiatives:  
-- 🔬 Experimental research & prototypes  
+Our public GitHub is a place for:  
+- 🔬 Research & experimental projects  
 - 🛠️ Developer tools & AI utilities  
-- 📊 Data & MLOps templates  
+- 📊 MLOps templates & data engineering assets  
 *(More coming soon!)*  
 
 ---
@@ -48,5 +48,5 @@ Check out our public work and open-source initiatives:
 ---
 
 <sub>
-**SEO Keywords:** Neurixis Labs, AI consulting France, machine learning engineering, secure MLOps, data strategy, ethical AI, explainable AI, predictive analytics, generative AI, SaaS AI, French AI company, industrial AI adoption, cloud AI deployment, ISO 27001 AI security.
+**SEO Keywords:** Neurixis, AI consulting France, machine learning engineering, secure MLOps, data strategy, ethical AI, explainable AI, predictive analytics, generative AI, SaaS AI, French AI company, industrial AI adoption, cloud AI deployment, ISO 27001 AI security.
 </sub>
