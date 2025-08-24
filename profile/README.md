@@ -1,7 +1,6 @@
 # 🧠 Neurixis
 
-Welcome to **Neurixis** —  
-a French **AI & Data consulting company** specialized in building **secure, ethical, and production-ready artificial intelligence solutions**.
+Welcome to **Neurixis** — a French **AI & Data consulting company** specialized in building **secure, ethical, and production-ready artificial intelligence solutions**.
 
 We empower organizations to **unlock the full value of their data** by combining cutting-edge **machine learning engineering**, **MLOps best practices**, and **business-driven AI strategy**.  
 From **predictive analytics** to **generative AI**, our mission is to deliver **reliable, explainable, and scalable AI systems** that create long-term impact.
